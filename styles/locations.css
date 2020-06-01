@@ -1,3 +1,12 @@
+.locationList {
+    background-color: mediumaquamarine;
+}
+
+.location {
+    background-color: mediumseagreen;
+}
+
+
 .location__picture {
     max-width: 15rem;
     max-height: 15rem;

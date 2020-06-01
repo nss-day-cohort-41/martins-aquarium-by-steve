@@ -1,2 +1,26 @@
 @import "fish.css";
 @import "locations.css";
+@import "tips.css";
+@import "quotes.css";
+@import "banner.css";
+
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.underTheBanner {
+    display: flex;
+    flex-direction: row;
+}
+
+.underTheBanner__left {
+    display: flex;
+    flex-direction: column;
+    flex: 3.5;
+}
+
+.underTheBanner__right {
+    flex: 1;
+}
