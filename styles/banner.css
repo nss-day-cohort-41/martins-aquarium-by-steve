@@ -1,3 +1,18 @@
 .banner {
-    background-color: darkgoldenrod;
+    background-color: #bee;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1rem;
+}
+
+.logoImg {
+    max-width: 7rem;
+    max-height: 7rem;
+}
+
+.banner__title {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 4rem;
 }

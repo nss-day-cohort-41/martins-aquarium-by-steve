@@ -1,8 +1,23 @@
 .tipList {
-    background-color: dodgerblue;
+    background-color: #abcdef;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
     height: 100%;
+    margin-left: 1rem;
+    align-items: flex-start;
+}
+
+.header--tips {
+    margin: 0.5rem;
+    flex-basis: 2%;
+    padding: 0.75rem;
+
 }
 
 .tip {
-    background-color: royalblue;
+    background-color: #42c4d3;
+    margin: 0.5rem;
+    flex-basis: 10%;
+    padding: 0.75rem;
 }
