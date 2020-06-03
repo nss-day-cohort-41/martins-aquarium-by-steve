@@ -37,7 +37,7 @@ const fishCollection = [
         location: "Caribbean Sea",
         food: "Algae",
         name: "Sweet",
-        picture: "./images/pink.jpg"
+        picture: "./images/pink.jpeg"
     },
     {
         species: "Orange Roughy",

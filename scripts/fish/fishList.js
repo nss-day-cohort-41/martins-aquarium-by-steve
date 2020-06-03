@@ -11,7 +11,7 @@ const fishList = () => {
         const fishHTML = fishConverter(currentFishObject)
 
         // Find the <article> element in index.html
-        const fishArticleElement = document.querySelector(".fishList")
+        const fishArticleElement = document.querySelector(".fishList__fish")
 
         // Put the fish HTML representation inside the <article> element
         fishArticleElement.innerHTML += fishHTML
