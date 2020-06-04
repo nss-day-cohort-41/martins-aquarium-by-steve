@@ -97,7 +97,28 @@
             "name": "Michael"
         }
     ],
-    "locations": [],
+    "locations": [
+        {
+            "description": "The Bay of Bengal is full of biological diversity, diverging amongst coral reefs, estuaries, fish spawning and nursery areas, and mangroves. The Bay of Bengal is one of the World's 64 largest marine ecosystems.",
+            "picture": "./images/bengal.jpeg",
+            "name": "Bay of Bengal"
+        },
+        {
+            "description": "Due to its enormous size, the Pacific Ocean is home to a wide array of marine creatures, some of which are found nowhere else on earth.",
+            "picture": "./images/pacific.jpeg",
+            "name": "Pacific Ocean"
+        },
+        {
+            "description": "In the Caribbean Sea there are around 1,000 documented species of fish, including sharks (bull shark, tiger shark, silky shark and Caribbean reef shark), flying fish, giant oceanic manta ray, angel fish, spotfin butterflyfish, parrotfish, Atlantic Goliath grouper, tarpon and moray eels.",
+            "picture": "https://caribbeannewsservice.com/now/wp-content/uploads/2017/05/Caribbean-Sea.jpg",
+            "name": "Caribbean Sea"
+        },
+        {
+            "description": "Together the snailfish, eelpouts and notothenioids (which includes cod icefish and several other families) account for almost ​9⁄10 of the more than 320 described fish species of the Southern Ocean.",
+            "picture": "./images/southern.png",
+            "name": "Southern Ocean"
+        }
+    ],
     "tips": [],
     "quotes": []
 }

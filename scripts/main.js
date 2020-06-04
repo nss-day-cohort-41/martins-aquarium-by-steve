@@ -1,8 +1,6 @@
-
 getFishData().then(
-    () => {
-        console.log("inside", fishCollection)
-        fishList()
-    }
+    () => fishList()
 )
-console.log("outside", fishCollection)
+getLocations().then(
+    () => locationList()
+)
