@@ -1,6 +1,10 @@
 getFishData().then(
-    () => fishList()
+    () => {
+        fishList()
+    }
 )
 getLocations().then(
-    () => locationList()
+    () => {
+        locationList()
+    }
 )
