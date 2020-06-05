@@ -1,140 +1,131 @@
 {
-    "fish": [
-        {
-            "id": 1,
-            "species": "Trigger Fish",
-            "length": 12,
-            "location": "Bay of Bengal",
-            "picture": "./images/triggerfish.jpg",
-            "food": "Baby squid",
-            "name": "Bubbles"
-        },
-        {
-            "id": 2,
-            "species": "Parrot Fish",
-            "length": 8,
-            "location": "Sea of Google",
-            "picture": "https://i.ytimg.com/vi/y6tdGVTgmm4/maxresdefault.jpg",
-            "food": "Popcorn",
-            "name": "Angus"
-        },
-        {
-            "id": 3,
-            "species": "Swordfish",
-            "length": 323,
-            "location": "Atlantic Ocean",
-            "picture": "./images/chester.jpeg",
-            "food": "Herring",
-            "name": "Chester"
-        },
-        {
-            "id": 4,
-            "species": "Angel Fish",
-            "length": 8,
-            "location": "Pacific Ocean",
-            "picture": "./images/angelfish.jpg",
-            "food": "Plankton",
-            "name": "Michael"
-        },
-        {
-            "id": 5,
-            "species": "Elegant Corydoras",
-            "length": 3,
-            "location": "Caribbean Sea",
-            "food": "Algae",
-            "name": "Sweet",
-            "picture": "./images/pink.jpg"
-        },
-        {
-            "id": 6,
-            "species": "Orange Roughy",
-            "length": 10,
-            "location": "Southern Ocean",
-            "picture": "./images/roughy.jpeg",
-            "food": "Anchovies",
-            "name": "Michael"
-        },
-        {
-            "id": 7,
-            "species": "Trigger Fish",
-            "length": 12,
-            "location": "Bay of Bengal",
-            "picture": "./images/triggerfish.jpg",
-            "food": "Baby squid",
-            "name": "Bubbles"
-        },
-        {
-            "id": 8,
-            "species": "Parrot Fish",
-            "length": 8,
-            "location": "Sea of Google",
-            "picture": "https://i.ytimg.com/vi/y6tdGVTgmm4/maxresdefault.jpg",
-            "food": "Popcorn",
-            "name": "Angus"
-        },
-        {
-            "id": 9,
-            "species": "Swordfish",
-            "length": 217,
-            "location": "Atlantic Ocean",
-            "picture": "./images/chester.jpeg",
-            "food": "Herring",
-            "name": "Chester"
-        },
-        {
-            "id": 10,
-            "species": "Angel Fish",
-            "length": 8,
-            "location": "Pacific Ocean",
-            "picture": "./images/angelfish.jpg",
-            "food": "Plankton",
-            "name": "Michael"
-        },
-        {
-            "id": 11,
-            "species": "Elegant Corydoras",
-            "length": 5,
-            "location": "Caribbean Sea",
-            "food": "Algae",
-            "name": "Sweet",
-            "picture": "./images/pink.jpg"
-        },
-        {
-            "id": 12,
-            "species": "Orange Roughy",
-            "length": 20,
-            "location": "Southern Ocean",
-            "picture": "./images/roughy.jpeg",
-            "food": "Anchovies",
-            "name": "Michael"
-        }
-    ],
-    "locations": [
-        {
-            "id": 1,
-            "description": "The Bay of Bengal is full of biological diversity, diverging amongst coral reefs, estuaries, fish spawning and nursery areas, and mangroves. The Bay of Bengal is one of the World's 64 largest marine ecosystems.",
-            "picture": "./images/bengal.jpeg",
-            "name": "Bay of Bengal"
-        },
-        {
-            "id": 2,
-            "description": "Due to its enormous size, the Pacific Ocean is home to a wide array of marine creatures, some of which are found nowhere else on earth.",
-            "picture": "./images/pacific.jpeg",
-            "name": "Pacific Ocean"
-        },
-        {
-            "id": 3,
-            "description": "In the Caribbean Sea there are around 1,000 documented species of fish, including sharks (bull shark, tiger shark, silky shark and Caribbean reef shark), flying fish, giant oceanic manta ray, angel fish, spotfin butterflyfish, parrotfish, Atlantic Goliath grouper, tarpon and moray eels.",
-            "picture": "https://caribbeannewsservice.com/now/wp-content/uploads/2017/05/Caribbean-Sea.jpg",
-            "name": "Caribbean Sea"
-        },
-        {
-            "id": 4,
-            "description": "Together the snailfish, eelpouts and notothenioids (which includes cod icefish and several other families) account for almost ​9⁄10 of the more than 320 described fish species of the Southern Ocean.",
-            "picture": "./images/southern.png",
-            "name": "Southern Ocean"
-        }
-    ],
-    "tips": [],
-    "quotes": []
+  "fish": [
+    {
+      "id": 1,
+      "species": "Trigger Fish",
+      "length": 12,
+      "location": "Bay of Bengal",
+      "picture": "./images/triggerfish.jpg",
+      "food": "Baby squid",
+      "name": "Bubbles"
+    },
+    {
+      "id": 2,
+      "species": "Parrot Fish",
+      "length": 8,
+      "location": "Sea of Google",
+      "picture": "https://i.ytimg.com/vi/y6tdGVTgmm4/maxresdefault.jpg",
+      "food": "Popcorn",
+      "name": "Angus"
+    },
+    {
+      "id": 3,
+      "species": "Swordfish",
+      "length": 323,
+      "location": "Atlantic Ocean",
+      "picture": "./images/chester.jpeg",
+      "food": "Herring",
+      "name": "Chester"
+    },
+    {
+      "id": 4,
+      "species": "Angel Fish",
+      "length": 8,
+      "location": "Pacific Ocean",
+      "picture": "./images/angelfish.jpg",
+      "food": "Plankton",
+      "name": "Michael"
+    },
+    {
+      "id": 5,
+      "species": "Elegant Corydoras",
+      "length": 3,
+      "location": "Caribbean Sea",
+      "food": "Algae",
+      "name": "Sweet",
+      "picture": "./images/pink.jpg"
+    },
+    {
+      "id": 6,
+      "species": "Orange Roughy",
+      "length": 10,
+      "location": "Southern Ocean",
+      "picture": "./images/roughy.jpeg",
+      "food": "Anchovies",
+      "name": "Michael"
+    },
+    {
+      "id": 7,
+      "species": "Trigger Fish",
+      "length": 12,
+      "location": "Bay of Bengal",
+      "picture": "./images/triggerfish.jpg",
+      "food": "Baby squid",
+      "name": "Bubbles"
+    },
+    {
+      "id": 8,
+      "species": "Parrot Fish",
+      "length": 8,
+      "location": "Sea of Google",
+      "picture": "https://i.ytimg.com/vi/y6tdGVTgmm4/maxresdefault.jpg",
+      "food": "Popcorn",
+      "name": "Angus"
+    },
+    {
+      "id": 9,
+      "species": "Swordfish",
+      "length": 217,
+      "location": "Atlantic Ocean",
+      "picture": "./images/chester.jpeg",
+      "food": "Herring",
+      "name": "Chester"
+    },
+    {
+      "id": 11,
+      "species": "Elegant Corydoras",
+      "length": 5,
+      "location": "Caribbean Sea",
+      "food": "Algae",
+      "name": "Sweet",
+      "picture": "./images/pink.jpg"
+    },
+    {
+      "id": 12,
+      "species": "Orange Roughy",
+      "length": 20,
+      "location": "Southern Ocean",
+      "picture": "./images/roughy.jpeg",
+      "food": "Anchovies",
+      "name": "Michael"
+    }
+  ],
+  "locations": [
+    {
+      "id": 1,
+      "description": "The Bay of Bengal is full of biological diversity, diverging amongst coral reefs, estuaries, fish spawning and nursery areas, and mangroves. The Bay of Bengal is one of the World's 64 largest marine ecosystems.",
+      "picture": "./images/bengal.jpeg",
+      "name": "Bay of Bengal"
+    },
+    {
+      "id": 2,
+      "description": "Due to its enormous size, the Pacific Ocean is home to a wide array of marine creatures, some of which are found nowhere else on earth.",
+      "picture": "./images/pacific.jpeg",
+      "name": "Pacific Ocean"
+    },
+    {
+      "id": 3,
+      "description": "In the Caribbean Sea there are around 1,000 documented species of fish, including sharks (bull shark, tiger shark, silky shark and Caribbean reef shark), flying fish, giant oceanic manta ray, angel fish, spotfin butterflyfish, parrotfish, Atlantic Goliath grouper, tarpon and moray eels.",
+      "picture": "https://caribbeannewsservice.com/now/wp-content/uploads/2017/05/Caribbean-Sea.jpg",
+      "name": "Caribbean Sea"
+    },
+    {
+      "id": 4,
+      "description": "Together the snailfish, eelpouts and notothenioids (which includes cod icefish and several other families) account for almost ​9⁄10 of the more than 320 described fish species of the Southern Ocean.",
+      "picture": "./images/southern.png",
+      "name": "Southern Ocean"
+    }
+  ],
+  "tips": [],
+  "quotes": []
 }

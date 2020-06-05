@@ -8,3 +8,6 @@ getLocations().then(
         locationList()
     }
 )
+
+
+
